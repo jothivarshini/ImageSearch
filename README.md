@@ -1,4 +1,4 @@
-# ImageSearch
+# Similarities of an Image
 
 For a given image, this model will search up the relevant similar images in the dataset. 
 

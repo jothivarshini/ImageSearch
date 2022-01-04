@@ -1,5 +1,8 @@
 # Similarities of an Image
 
+This was a small project that I decided to try out with the help of Image retrival and Image Classification using CNNs.
+
+
 For a given image, this model will search up the relevant similar images in the dataset. 
 
 To use this code in Google Colab:
